@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fastify/cors": "^8.3.0",
+    "fastify": "^4.20.0",
+    "node-fetch-commonjs": "^3.3.1"
+  }
+}
